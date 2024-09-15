@@ -23,7 +23,7 @@
 
 - Date Comparisons: Overloaded operators ==, !=, <, <=, >, >= for comparing dates.
   
-## Set/Get Methods:
+## Set/Get Methods
 
 - void setdate(int y, unsigned short m, unsigned short d)
 - void setyear(int y)
