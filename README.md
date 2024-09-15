@@ -21,7 +21,7 @@
 
 - Set/Get Methods:
 
--- void setdate(int y, unsigned short m, unsigned short d)
+- - void setdate(int y, unsigned short m, unsigned short d)
 -- void setyear(int y)
 -- void setmonth(unsigned short m)
 -- void setday(unsigned short d)
